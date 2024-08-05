@@ -1,0 +1,36 @@
+_repo: War-No-81-Q_74098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linebarger, Paul Myron Anthony
+    aliases:
+    - Smith, Cordwainer
+    - Linebarger, Paul M. A.
+    birthdate: 1913
+    deathdate: 1966
+    gutenberg_agent_id: '34034'
+    url: http://www.gutenberg.org/2009/agents/34034
+    wikipedia: https://en.wikipedia.org/wiki/Cordwainer_Smith
+description: '"[T]his story was later rewritten; this is the original."'
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74098'
+language: en
+pgterms:marc905: 20240720055624smith
+pgterms:marc906: '1928'
+pgterms:marc907: us
+production_note: Alex White & the online Distributed Proofreaders Canada team at https://www.pgdpcanada.net
+publication_note: '  $aNew York City :$bBallantine Books, $c1928, reprint 1979.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Instrumentality of Mankind
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'War stories'
+- !lcc 'PS'
+- GITenberg
+title: War No. 81-Q
+url: http://www.gutenberg.org/ebooks/74098
